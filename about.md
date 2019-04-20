@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Udit, I study Computer Science at  Johns Hopkins University. I am a passionate motivator and leader who loves working in teams to conquer complex challenges. I am interested in becoming a back end developer, DevOPs engineer or entrepreneur.
 
-### More Information
+### Past and current projects:
 
-A place to include any other types of information that you'd like to include about yourself.
+Ascend: an Android app that allows users to set long-term goals, create detailed plans and motivates them to follow through with these plans.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[uditsharma025@gmail.com](mailto:uditsharma025@gmail.com)
