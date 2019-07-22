@@ -1,15 +1,40 @@
 ---
+
 layout: page
+
 title: About
+
 permalink: /about/
+
 ---
 
-I'm Udit, I study Computer Science at  Johns Hopkins University. I am a passionate motivator and leader who loves working in teams to conquer complex challenges. I am interested in becoming a back end developer, DevOPs engineer or entrepreneur.
+ 
 
-### Past and current projects:
+I'm Udit, I am a Computer Science Student who is passionate about technology, rock climbing, and learning. This blog is a place for me to share lessons I have learned, reflections on my experiences and topics that interest me. If something on this website interests you, please reach out!
 
-Ascend: an Android app that allows users to set long-term goals, create detailed plans and motivates them to follow through with these plans.
+ 
+
+### Current projects:
+
+ 
+
+- [Data visualization for Bowtie2 UI](https://github.com/usharma6/bt2-ui): Creating useful data visualizations for the beta UI of the open source super fast read aligner [Bowtie2](https://github.com/BenLangmead/bowtie2).
+
+- [Kaalam](http://getkaalam.com/): A student startup building a dynamic optimal scheduling application.
+
+ 
+
+### Past projects:
+
+ 
+
+- [Ascend](https://github.com/jhu-cs-uima-sp19/Ascend): An Android app created for JHU's User Interfaces and Mobile Applications course. Ascend is an application for goal-oriented people that expediates making detailed , long-term plans.
+
+ 
 
 ### Contact me
 
-[uditsharma025@gmail.com](mailto:uditsharma025@gmail.com)
+ 
+
+[usharma6@jhu.edu](mailto:usharma6@jhu.com)
+
